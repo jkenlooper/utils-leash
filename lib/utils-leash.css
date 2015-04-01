@@ -1,0 +1,10 @@
+.u-leashAll img,
+.u-leash { /* img */
+  display: inline-block !important;
+  max-width: 100% !important;
+  height: auto !important;
+  vertical-align: middle !important;
+  border: 0 !important;
+  -ms-interpolation-mode: bicubic !important;
+}
+

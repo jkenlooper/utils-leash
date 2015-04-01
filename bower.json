@@ -1,0 +1,23 @@
+{
+  "name": "utils-leash",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jkenlooper/utils-leash",
+  "authors": [
+    "Jake Hickenlooper <jake@bottlerocket.net>"
+  ],
+  "description": "CSS to prevent img from escaping it's parent",
+  "main": "index.css",
+  "keywords": [
+    "suitcss",
+    "img",
+    "utility"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
